@@ -1,5 +1,4 @@
-# Air-Quality-Prediction
-## Air Quality Prediction: Machine Learning Project
+# Air Quality Prediction: Machine Learning Project
 
 This repository holds the code and resources for a project that investigates how machine learning models can predict relative humidity (RH) based on air quality data.
 
@@ -32,7 +31,6 @@ git clone https://github.com/your-username/Air-Quality-Prediction.git
 
 * `data`: Contains the Air Quality dataset used for analysis.
 * `notebooks`: Contains Jupyter Notebooks for data exploration, preprocessing, model training, evaluation, and visualization.
-* `src` (Optional): Contains Python scripts for model implementation and utility functions.
 * `requirements.txt`: Lists the required Python libraries for this project.
 * `README.md`: This file (you are reading it now).
 
